@@ -1,0 +1,30 @@
+body{
+	
+}
+#jpreOverlay {
+
+}
+#jpreSlide{
+	font-size:22px;
+	font-weight:bold;
+	color:#ccc;
+	text-align:center;
+	width:50%;
+	height:30%;
+}
+#jpreLoader{
+width:600px;
+height:500px;
+}
+#jpreBar {
+background:url(../images/loading.gif) center top no-repeat !important;
+}
+#jprePercentage {
+	color:#ccc;
+	font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	text-align:center;
+	text-shadow:1px 1px 1px #333;
+	top:-96%;
+}
+
